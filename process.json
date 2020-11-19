@@ -6,9 +6,7 @@
             "instances": "max",
             "exec_mode": "cluster",
             "env": {
-                "NODE_ENV": "production",
-                "XIAOYUZHOU_ID": "C7B1AC88-7F63-409C-83D3-61C065D46437",
-                "XIAOYUZHOU_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiVUl4Vno1YlMzU2o0dUJMWTZtbGdDZURpUU9UMWhhd21SNUNzZWtsbkpwamJ6MCtrTlg3VlRzTmdsdmhqZ2VoaFBBQ1VOUmhSenUrRHQ0XC9qVGJDajI1djFMMnYwZnpldm5GV01vTWJUNUExYkVnODNtVWs2SFBiejFTMEZwOHBFZ1Jrd0lhM3ptdTJXV3ZiRTBaMVFqaTlXb3crM2pLMjdwR1RQWlFHemt1MlFyc2dlNzZ6T2pXMjFmaUF3Z3d1clBWWVByXC90dG8wWG12YldyanQ3WTROeExncG9lYkFhbDNoN2xPYUlicHUrQzdzczdJUjJTelRtVVhlZlhzTVpnOHRKblh2ZXp3N2FkekFVZnhuM3RzNGFTVWpvV3NGMDhlc29tUlZjb0hsaGtiV3pDbnJBdU8rY0lHSUFUeUZuTG9aekxNejE4Nzd2a2p5bUw5SzhNXC9UeVlHeU9wQ3Z1TDRDZ0VBZ3pRRG93PSIsInYiOjMsIml2IjoiSFlPZzdIdHlwK2Y3cHNkK0JLTFRzUT09IiwiaWF0IjoxNjA1NDcyNDY1LjAwNX0.vY8FDWAl7w11MCgYADYHJikDgePF3b9kylkcDZzu1uI"
+                "NODE_ENV": "production"
             }
         }
     ]
